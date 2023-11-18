@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c26fa8450c86bd7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "4f5fc420b9571d89",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,8 +148,15 @@
   },
   "active": "4f5fc420b9571d89",
   "lastOpenFiles": [
-    "FAR2EB8.tmp",
+    "'АТД.md",
+    "список вопросов.md",
+    "АТД.md",
+    "алфавит.md",
+    "хеширование.md",
+    "NULL.md",
+    "nullptr.md",
+    "r-value.md",
     "l-value.md",
-    "список вопросов.md"
+    "FAR2EB8.tmp"
   ]
 }
