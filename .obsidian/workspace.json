@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "алгоритм бинарного поиска.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "алгоритм бинарного поиска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "алгоритм бинарного поиска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "алгоритм бинарного поиска.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "bac36a7f4ce30691",
   "lastOpenFiles": [
-    "список вопросов.md",
     "алгоритм сортировки, основные характеристики.md",
     "алгоритм бинарного поиска.md",
+    "список вопросов.md",
+    "алгоритм.md",
+    "README.md",
     "алгоритмы стандартной библиотеки.md",
     "0.md",
     "строки std(2 point)(2 point)string, обработка.md",
@@ -185,8 +187,6 @@
     "тип стандартной библиотеки.md",
     "тип символьный.md",
     "тип перечисление.md",
-    "тип логический.md",
-    "тип копируемый.md",
     "FAR2EB8.tmp"
   ]
 }
