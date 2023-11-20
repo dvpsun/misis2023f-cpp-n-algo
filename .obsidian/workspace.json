@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d90695df3763e3a8",
+        "id": "f537b786a4eefe16",
         "type": "tabs",
         "children": [
           {
-            "id": "4f5fc420b9571d89",
+            "id": "c65baead54b38367",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "список вопросов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bac36a7f4ce30691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "список вопросов.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "список вопросов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "список вопросов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "список вопросов.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,21 +138,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bac36a7f4ce30691",
+  "active": "c65baead54b38367",
   "lastOpenFiles": [
-    "арифметика указателей.md",
-    "список вопросов.md",
+    "операторы арифметические.md",
+    "инкремент.md",
+    "декремент.md",
+    "операторы унарные - префиксная и постфиксная формы.md",
     "алгоритм бинарного поиска.md",
     "алгоритм сортировки, основные характеристики.md",
+    "список вопросов.md",
+    "алгоритм.md",
+    "README.md",
     "алгоритмы стандартной библиотеки.md",
-    "'АТД.md",
-    "АТД.md",
-    "алфавит.md",
-    "хеширование.md",
-    "NULL.md",
-    "nullptr.md",
-    "r-value.md",
-    "l-value.md",
+    "0.md",
+    "строки std(2 point)(2 point)string, обработка.md",
+    "идентификатор.md",
+    "шаблонный тип.md",
+    "шаблонная функция.md",
+    "шаблон - параметры.md",
+    "функция main.md",
+    "функция - передача параметров, возврат значения.md",
+    "функция - перегрузка.md",
+    "функция.md",
+    "функтор (функциональный объект).md",
+    "управление доступом.md",
+    "указатель на функцию.md",
+    "указатель.md",
+    "типов преобразования явные.md",
+    "типов преобразования неявные.md",
     "FAR2EB8.tmp"
   ]
 }
