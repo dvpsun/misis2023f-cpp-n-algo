@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d90695df3763e3a8",
+        "id": "f537b786a4eefe16",
         "type": "tabs",
         "children": [
           {
-            "id": "4f5fc420b9571d89",
+            "id": "c65baead54b38367",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "список вопросов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bac36a7f4ce30691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "алгоритм бинарного поиска.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "алгоритм бинарного поиска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "алгоритм бинарного поиска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "алгоритм бинарного поиска.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,10 +138,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bac36a7f4ce30691",
+  "active": "c65baead54b38367",
   "lastOpenFiles": [
-    "алгоритм сортировки, основные характеристики.md",
+    "операторы арифметические.md",
+    "инкремент.md",
+    "декремент.md",
+    "операторы унарные - префиксная и постфиксная формы.md",
     "алгоритм бинарного поиска.md",
+    "алгоритм сортировки, основные характеристики.md",
     "список вопросов.md",
     "алгоритм.md",
     "README.md",
@@ -183,10 +166,6 @@
     "указатель.md",
     "типов преобразования явные.md",
     "типов преобразования неявные.md",
-    "тип целый.md",
-    "тип стандартной библиотеки.md",
-    "тип символьный.md",
-    "тип перечисление.md",
     "FAR2EB8.tmp"
   ]
 }
