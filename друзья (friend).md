@@ -1,3 +1,19 @@
+
+Объекты, которые могут получить доступ ко всем полям, даже если они private
+
+Использовать крайне не рекомендуется, тк ломает все договоренности об областях доступа между объектами.
+
+Пример:
+```cpp
+class SomeClass {
+    friend FriendClassName; // дружеский класса
+    friend int FriendFunctionName(int x); // дружеская функция
+    ...
+}
+```
+
+подробнее про доступ: [управление доступом](управление%20доступом.md)
+=======
 Друзья 
 • метод 
   – имеет доступ к закрытой части объявления 
@@ -27,3 +43,12 @@ class Matr {
 Vect operator*(const Matr& lhs, const Vect& rhs) { 
   //… 
 }
+
+Пример:
+```cpp
+class SomeClass {
+    friend FriendClassName; // дружеский класса
+    friend int FriendFunctionName(int x); // дружеская функция
+    ...
+}
+```
